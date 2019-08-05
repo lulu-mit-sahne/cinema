@@ -5,7 +5,7 @@
   box-sizing: border-box; }
 
 html {
-  background-color: #39424E;
+  background-color: #008;
   font-family: "Didact Gothic", "sans serif";
   font-size: 16px; }
 
