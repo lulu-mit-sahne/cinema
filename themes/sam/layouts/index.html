@@ -3,14 +3,34 @@
     <head>
         {{ partial "head.html" . }}
         <title>{{ .Title }}</title>
+         <link href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway|Roboto" rel="stylesheet">
+
         <style>
-            body {background-color: #8C443C;
+            .Roboto{
+                font-family: 'Roboto', sans-serif;
+            }
+            .Open_Sans{
+                font-family: 'Open Sans', sans-serif;
+            }
+            .Roboto{
+                font-family: 'Raleway', sans-serif;
+     
+            body {background-color: #8a2be2;
                    }
-           
-  
-        </style>
+          </style>
     </head>
-    <body>
+    <body id="body">
+         <script>
+
+            var fonts = ['Roboto', 'Open_Sans', 'Raleway'];
+            var rand = fonts[Math.floor(Math.random() * fonts.length)];
+            console.log(rand);
+
+            var bodyElement = document.getElementById("body");
+            bodyElement.className = rand;
+        </script>
+        
+        
         <div class="section" id="splash">
 
             {{ if .Site.Params.mainMenu }}
