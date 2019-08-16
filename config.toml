@@ -35,7 +35,6 @@ pygmentsCodefences       = true
     text = "Filmemacher"
 
 [[params.mainMenu]]
-    link = ""
     text = "<a target="_blank" rel="noopener noreferrer" href="https://wirsindcarlo.de">und 33,3% von Carlo</a>"
 
 [imaging]
