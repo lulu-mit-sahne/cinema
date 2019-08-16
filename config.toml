@@ -35,7 +35,7 @@ pygmentsCodefences       = true
     text = "Filmemacher"
 
 [[params.mainMenu]]
-    link = "https://wirsindcarlo.de"
+    link = "/carlo"
     text = "und 33,3% von Carlo"
 
 [imaging]
