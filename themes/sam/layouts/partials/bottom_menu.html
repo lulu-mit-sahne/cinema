@@ -17,6 +17,13 @@
             </a>
         {{ end }}
     
+    {{ if .Page.Site.Params.mainMenuTab }}
+        {{ range first 1 .Page.Site.Params.mainMenuTab }}
+            <a href="{{ .link }}">
+                {{ .text }}
+            </a>
+        {{ end }}
+    
     {{ if ( gt ( len .Page.Site.Params.mainMenu ) 1 ) }}
         {{ range after 1 .Page.Site.Params.mainMenu }}
             &#183; 
