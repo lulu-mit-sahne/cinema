@@ -8,7 +8,12 @@ title                    = "Julius Schmitt"
 theme                    = "sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
-# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+# googleAnalytics        = ""   # Tracking code, eg. "UA-111111111-1"
+
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+
 
 [params]
     dateform             = "2006"
@@ -34,7 +39,7 @@ pygmentsCodefences       = true
     link = "/posts"
     text = "Filmemacher"
 
-[[params.mainMenuTab]]
+[[params.mainMenu]]
     link = "https://wirsindcarlo.de"
     text = "und 33,3% von Carlo"
 
