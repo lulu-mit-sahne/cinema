@@ -12,7 +12,6 @@ tags: ["Regisseur"]
 EU ist Friedensnobelpreisträger – Europa ist Mutter der Freiheit. Doch für viele geflüchtete Personen ist Europa nur noch ein leeres Versprechen. Parwana Amiri und Arash Hampay wollen die schwierigen Umstände in Griechenland nicht hinnehmen - sie kämpfen für ihre Rechte und ihre Würde. 
 
 Arash Hampay - 34 Jahre, geflohen vom iranischen Regime – gründete die NGO "Our house". Ein Community-Haus in Athen für Alle – warmes Essen, Rechtsberatung, Friseur, Café. 
-
 Parwana Amiri – 17 Jahre, aus Afghanistan – lebt mit ihrer Familie im Camp Ritsona und kämpft mit ihrer Gruppe 'Youth Refugee Movement' auf das Recht für Bildung.
 
 
