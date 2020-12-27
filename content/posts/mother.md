@@ -15,6 +15,7 @@ Arash Hampay - 34 Jahre, geflohen vom iranischen Regime – gründete die NGO "O
 
 Parwana Amiri – 17 Jahre, aus Afghanistan – lebt mit ihrer Familie im Camp Ritsona und kämpft mit ihrer Gruppe 'Youth Refugee Movement' auf das Recht für Bildung.
 
+
 17 min / 2k flat / Farbe    
 
 Buch und Regie: Julius Schmitt, <a href="https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>
