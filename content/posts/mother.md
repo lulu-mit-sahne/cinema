@@ -7,7 +7,6 @@ tags: ["Regisseur"]
 ---
 
 {{< vimeo 495020281 >}}
-
 ### Ein Dokumentarfilm von Julius Schmitt und Feline Gerhardt 
 
 EU ist Friedensnobelpreisträger – Europa ist Mutter der Freiheit. Doch für viele geflüchtete Personen ist Europa nur noch ein leeres Versprechen. Parwana Amiri und Arash Hampay wollen die schwierigen Umstände in Griechenland nicht hinnehmen - sie kämpfen für ihre Rechte und ihre Würde. 
