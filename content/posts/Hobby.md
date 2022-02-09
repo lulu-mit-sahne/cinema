@@ -14,7 +14,7 @@ images:
 Für die SWR-Landesschau und den <a href="https://www.instagram.com/swr_heimat_bw/?hl=de" target="_blank">SWR-Heimat Instagramkanal</a> sind mehrere Kurzportraits von Menschen mit außergewöhnlichen Hobbies entstanden und eine 30 minütige Reportage für die ARD.  
 
 
-<iframe src="https://www.ardmediathek.de/embed/Y3JpZDovL3N3ci5kZS9hZXgvbzExODczMzQ" width="840" height="420" allowfullscreen frameBorder="0" scrolling="no"></iframe>
+<iframe width="840" height="420" src="https://www.youtube.com/embed/AvoXEnUqMZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Die wunderbare Welt der Hobbys
 
@@ -26,8 +26,6 @@ Producer: Nick Pastucha
 
 Produktoinsfirma: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
-
-<iframe width="840" height="420" src="https://www.youtube.com/embed/AvoXEnUqMZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Die Meerjungfrau
 
