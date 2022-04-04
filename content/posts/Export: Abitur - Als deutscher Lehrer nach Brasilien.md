@@ -40,10 +40,10 @@ Sound:
 Neil Grabbe
 
 
-![Julius](/posts/brasilien/brazil_01.jpg)
-![Julius](/posts/brasilien/brazil_02.jpg)
-![Julius](/posts/brasilien/brazil_03.jpg)
-![Julius](/posts/brasilien/brazil_04.jpg)
-![Julius](/posts/brasilien/brazil_06.jpg)
-![Julius](/posts/brasilien/brazil_07.jpg)
+![Julius Schmitt](/posts/brasilien/brazil_01.jpg)
+![Julius Schmitt](/posts/brasilien/brazil_02.jpg)
+![Julius Schmitt](/posts/brasilien/brazil_03.jpg)
+![Julius Schmitt](/posts/brasilien/brazil_04.jpg)
+![Julius Schmitt](/posts/brasilien/brazil_06.jpg)
+![Julius Schmitt](/posts/brasilien/brazil_07.jpg)
 
