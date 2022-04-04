@@ -10,7 +10,7 @@ images:
     - /posts/nacht/So_Hell_Die_Nacht_Stills_03.jpg
     - /posts/nacht/So_Hell_Die_Nacht_Stills_04.jpg
 ---
-![Nacht](/posts/nacht/Poster_Nacht.jpg)
+![Julius Schmitt](/posts/nacht/Poster_Nacht.jpg)
 
 
 ### Ein Dokumentarfilm von Julius Schmitt
@@ -42,9 +42,9 @@ Filmmusik:
 Johannes Schmitt
 
 
-![Nacht](/posts/nacht/So_Hell_Die_Nacht_Still_01.jpg)
-![Nacht](/posts/nacht/So_Hell_Die_Nacht_Stills_02.jpg)
-![Nacht](/posts/nacht/So_Hell_Die_Nacht_Stills_03.jpg)
-![Nacht](/posts/nacht/So_Hell_Die_Nacht_Stills_04.jpg)
+![Julius Schmitt](/posts/nacht/So_Hell_Die_Nacht_Still_01.jpg)
+![Julius Schmitt](/posts/nacht/So_Hell_Die_Nacht_Stills_02.jpg)
+![Julius Schmitt](/posts/nacht/So_Hell_Die_Nacht_Stills_03.jpg)
+![Julius Schmitt](/posts/nacht/So_Hell_Die_Nacht_Stills_04.jpg)
 
 
