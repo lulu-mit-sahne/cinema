@@ -6,18 +6,17 @@ draft: false
 tags: ["Regisseur"]
 
 images:
-    - /posts/brasilien/brazil_01.jpg
-    - /posts/brasilien/brazil_02.jpg
-    - /posts/brasilien/brazil_03.jpg
-    - /posts/brasilien/brazil_04.jpg
-    - /posts/brasilien/brazil_05.jpg
-    - /posts/brasilien/brazil_06.jpg
-    - /posts/brasilien/brazil_07.jpg
+    - /posts/eltern/moldau_1.jpg
+    - /posts/eltern/moldau_2.jpg
+    - /posts/eltern/moldau_3.jpg
+    - /posts/eltern/moldau_4.jpg
+    - /posts/eltern/moldau_5.jpg
+    - /posts/eltern/moldau_6.jpg
 
 
 ---
 
-![Julius Schmitt](/posts/brasilien/brazil_05.jpg)
+![Julius Schmitt](/posts/eltern/moldau_3.jpg)
 
 ### Eine Reportage von Julius Schmitt
 
@@ -41,10 +40,9 @@ Sound:
 
 
 
-![Julius Schmitt](/posts/brasilien/brazil_01.jpg)
-![Julius Schmitt](/posts/brasilien/brazil_02.jpg)
-![Julius Schmitt](/posts/brasilien/brazil_03.jpg)
-![Julius Schmitt](/posts/brasilien/brazil_04.jpg)
-![Julius Schmitt](/posts/brasilien/brazil_06.jpg)
-![Julius Schmitt](/posts/brasilien/brazil_07.jpg)
+![Julius Schmitt](/posts/eltern/moldau_1.jpg)
+![Julius Schmitt](/posts/eltern/moldau_2.jpg)
+![Julius Schmitt](/posts/eltern/moldau_4.jpg)
+![Julius Schmitt](/posts/eltern/moldau_5.jpg)
+![Julius Schmitt](/posts/eltern/moldau_6.jpg)
 
