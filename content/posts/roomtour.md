@@ -36,6 +36,6 @@ Produktionfirma: <a href="https://www.eikon-suedwest.de/home.html" target="_blan
 
 <iframe width="840" height="420" src="https://www.youtube.com/embed/9Evg3Sl3WAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Leben auf dem Wasser
+### Wohnen auf dem Wasser
 
 <iframe width="840" height="420" src="https://www.youtube.com/embed/qhO1FOfSDOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
