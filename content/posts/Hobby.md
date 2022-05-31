@@ -16,16 +16,6 @@ Für die SWR-Landesschau und den <a href="https://www.instagram.com/swr_heimat_b
 
 <iframe width="840" height="420" src="https://www.youtube.com/embed/AvoXEnUqMZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Die wunderbare Welt der Hobbys
-
-Regie: Julius Schmitt, <a href="https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>, <a href="https://www.leonardclaus.de" target="_blank">Leonard Claus</a>, Marina Schultz
-
-Bildgestalterin:  <a href="https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>
-
-Producer: Nick Pastucha
-
-Produktoinsfirma: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
-
 
 ### Die Meerjungfrau
 
