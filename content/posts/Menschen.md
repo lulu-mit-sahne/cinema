@@ -21,7 +21,7 @@ images:
 
 ### Eine Multimediareportage von Julius Schmitt
 
-<a href="http://mdnos.de" target="_blank">Webseite</a>
+<a href="[Menschen die nach oben starren](https://menschen-die-nach-oben-starren.de/)" target="_blank">Webseite</a>
 
 
 „Willkommen! Danke!“ Und dann wird über Fußball, Wetter und den Chef geredet. Oder wie stellt sich der Mensch den Erstkontakt zu Außerirdischen vor? September, 1995, Bulgarien, Russe, die Menschen starrten gen Himmel und warteten.
