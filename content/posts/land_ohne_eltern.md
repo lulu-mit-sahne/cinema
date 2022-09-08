@@ -42,9 +42,13 @@ Produktion:
 Kobalt 
 
 Kamera: 
+Jasper Granderath
+Feline Gerhardt
+Florian Henke
 
 
 Sound:
+Luca Pantow
 
 
 ![Julius Schmitt](/posts/eltern/familie.jpg)
