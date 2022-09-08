@@ -1,6 +1,6 @@
 ---
-title: "Arte Re: | Land ohne Eltern (At)"
-date: 2022-04-04
+title: "Arte Re: | Land ohne Eltern - Die vergessenen Kinder von Moldau"
+date: 2022-09-07
 showDate: true
 draft: false
 tags: ["Regisseur"]
@@ -20,12 +20,15 @@ images:
 
 ### Eine Reportage von Julius Schmitt
 
-Mit gläsernen Augen starrt Loredana auf ihr Smartphone. Sergiu und Elena lächeln. 
-Sie holt ihre Gitarre und fängt an zu spielen. Etwa 2000 Kilometer westlich sitzen ihre Eltern in einem kleinen Zimmer bei London und lauschen den Klängen ihres Kindes. Dann fragen sie, wie es ihr geht. 
+Loredana ist zwölf Jahre alt, Sebastiana acht. Beide leben in der Republik Moldau und wachsen ohne ihre Eltern auf, weil diese im Ausland arbeiten. Keine Einzelfälle - ca. 20 000 Kinder sind wie Loredana und Sebastiana davon betroffen. 
 
-Sashas Handy klingelt - seine Mutter ruft ihn aus Tschechien an. Er nimmt ab - Small Talk - die Schule war gut. Alltag in Sashas Leben. Er wird seine Mutter erst in fünf Monaten wiedersehen. 
+Elena und Sergiu – die Eltern von Loredana - kämpfen für eine bessere Zukunft - für sich, aber vor allem für ihre Töchter. Die Kinder sollen es einmal leichter haben als sie. Doch der Preis dafür ist hoch:
 
-So wie Sasha und Loredana gibt es viele in der Republik Moldau - ca. 20 000 Kinder sind davon betroffen. Nirgendwo sind die Auswirkungen der Arbeitsmigration auf die Kinder so drastisch. Republik Moldau – das Land ohne Eltern. 
+„Nach langer Zeit kamen wir wieder zurück nach Moldau. Unsere eigene Tochter hat uns nicht mehr erkannt! Elena hat angefangen zu weinen, diese Momente sind so schmerzhaft“, erzählt Sergiu. 
+Sebastianas Mutter arbeitet momentan in Deutschland und kümmert sich um zwei Kinder, während ihre Kinder bei den Großelterm leben. Gerade auf dem Land in Moldau fehlt den Menschen die Perspektive – es gibt keine Jobs, die das Überleben der Familie sichern würde.
+Zurück bleibt eine Generation, die ohne Eltern aufwächst. "Copii singuri acasa", die "Allein-Zuhause-Kinder“ wie sie in Moldau genannt werden. NGOs schätzen, dass aufgrund der massenhaften Arbeitsmigration fast die Hälfte aller moldauischen Kinder zeitweise ohne ein Elternteil aufwächst. Knapp die Hälfte der vier Millionen Moldauer lebt und arbeitet mittlerweile im Ausland, die meisten von ihnen in Ländern der Europäischen Union. 
+
+Wanderarbeiter gibt es überall in Europa – aber nirgendwo sieht man die Auswirkungen auf die Kinder so drastisch wie in der Republik Moldau – dem Land ohne Eltern. 
 
 32 min / FullHD / 16:9 / Farbe
 
@@ -35,7 +38,7 @@ Julius Schmitt
 Produktion:
 Kobalt 
 
-Kamera:
+Kamera: 
 
 
 Sound:
