@@ -12,6 +12,9 @@ images:
     - /posts/eltern/moldau_4.jpg
     - /posts/eltern/moldau_5.jpg
     - /posts/eltern/moldau_6.jpg
+    - /posts/eltern/loredana.jpg
+    - /posts/eltern/sebastiana.jpg
+    - /posts/eltern/familie.jpg
 
 
 ---
@@ -44,10 +47,11 @@ Kamera:
 Sound:
 
 
-
+![Julius Schmitt](/posts/eltern/familie.jpg)
+![Julius Schmitt](/posts/eltern/loredana.jpg)
+![Julius Schmitt](/posts/eltern/sebastiana.jpg)
 ![Julius Schmitt](/posts/eltern/moldau_1.jpg)
 ![Julius Schmitt](/posts/eltern/moldau_2.jpg)
 ![Julius Schmitt](/posts/eltern/moldau_4.jpg)
-![Julius Schmitt](/posts/eltern/moldau_5.jpg)
 ![Julius Schmitt](/posts/eltern/moldau_6.jpg)
 
