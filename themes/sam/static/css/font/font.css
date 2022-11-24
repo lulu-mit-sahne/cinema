@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'asap';
+  font-style: normal;
+  font-weight: 400;
+  src: local('asap-Regular'), local('asap-Bold'),
+       url('asap-Regular.ttf') format('truetype'),
+       url('Ubuntu-Bold.ttf') format('truetype');
+}
